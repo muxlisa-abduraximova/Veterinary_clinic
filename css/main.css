@@ -361,7 +361,7 @@ img {
     padding-top: 116px;
 }
 
-.visually-hidden {
+.hero__visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
